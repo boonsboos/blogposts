@@ -78,14 +78,17 @@ You should find a healthy way to channel your negative emotions (frustration) in
 > Always remember: if you find yourself too frustrated and/or not having fun, calling it a day is fine.
 
 #### Competition and comparing yourself to others
-While competition is a 
+While competition is a great source of motivation, it can become a bigger source of frustration.
+You may end up constantly comparing yourself to your peers and their improvement instead of that of your own.
+
+You first, competition second.
 
 ### Effective practice
 This is the important part of the article. 
 Here are general guidelines for a consistent and effective practice schedule.
 
 #### Push & Pull
-Your sessions should consist (pun intended) of two main phases: first Push, then Pull.
+Your practice should consist (pun intended) of two main phases: first Push, then Pull.
 
 Remember those bars on the skill line from earlier?
 |||
@@ -108,7 +111,7 @@ Maybe you have a day where it feels like a Bad Day to Push, therefore you should
 Being consistent in your practice means that you have a set schedule for when and for how long you practice.
 It becomes easier if you integrate that alotted time for practice into your daily routine.
 
-For example: I have my practice session after dinner every other day, for 1.5 to 2 hours, maybe for longer if I'm having a Good Day.
+For example: I have my practice session after dinner every other day and it lasts for 1.5 to 2 hours, maybe longer if I'm having a Good Day.
 
 If your schedule has daily practice, it's important to know when you should take a rest day. 
 A streak of Bad Days caused by Pushing too hard after Good Days can be very hard to deal with, both physically and mentally.
@@ -121,7 +124,9 @@ Recognizing this is essential to have a good Pull phase.
 
 How exactly you can identify weak points varies from skill to skill, but asking someone more experienced than you is always a safe bet when getting started.
 Even if what you're practicing is a solo endeavour, there is probably a community of people that are also practicing that same skill.
-They can (and are willing to, if you ask nicely) give you pointers on where you have the most room for improvement. 
+They can (and are willing to, if you ask nicely) give you pointers on where you have the most room for improvement.
+
+Your next session you should then focus on those points.
 
 ### Conclusion
 Improvement is not a straight line, it's like a staircase.
