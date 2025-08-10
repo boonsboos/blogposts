@@ -130,8 +130,7 @@ Dedicating yourself to learning a new skill requires a strong growth mindset.
 
 #### Have fun
 If you're not having fun, trying to improve will feel like fighting a mountain.
-Having fun keeps you motivated.
-A can-do attitude is invaluable.
+Having fun keeps you motivated and a can-do attitude is invaluable.
 
 > "I can't do it *yet*, but with more practice and hard work, I will be able to do it."
 
