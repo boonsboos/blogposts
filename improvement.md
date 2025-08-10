@@ -10,57 +10,128 @@ This article is for people that feel like they're in a rut, unable to improve at
 | Outline |
 | - |
 | [Preamble](#preamble) |
-| 1. [](#) |
-| 1. [](#) |
-| 1. [Effective practice](#effective-practice) |
-| 1. [Conlusion](#conclusion) |
+| 1. [Defining skill](#defining-skill) |
+| 2. [Effective practice](#effective-practice) |
+| 3. [Mental barriers](#mental-barriers) |
+| 4. [Conlusion](#conclusion) |
 
 ### Preamble
-Getting good at a new thing takes a lot of time and practice. For the first few days/weeks/months, you will improve rapidly as you're eliminating the most common of beginner mistakes. 
-This is why a lot people that are better at that skill than you are will tell you to "just do it more and more often".
-In most cases, this is actually true.
-What they don't specify however, is *how* to do it more, or more accurately:
+Getting good at a new thing takes a lot of time and practice.
+For the first few days/weeks/months, you will improve rapidly as you're eliminating the most common of beginner mistakes.
+This is why a lot people that are better at that skill than you are will tell you to "just do it more and more often" when you ask them how to get better.
+At the beginner level that's true, you should be doing it more and more often.
+However, what people asking that usually want to know, is:
 
-How do you then improve at the post-beginner level and above?
+How do you improve from the beginner level onwards?
 
-### Defining a skill level
+### Defining skill
 The first thing you have to realise is that skill is not constant.
-If you just got started with a new skill, you're probably already better than the last time. 
+If you just got started practicing a new skill, you're probably already better than the last time.
 Further along, you may notice that some days you're performing better than others.
-You will not always be the same amount of "Good". 
-That's all natural and completely fine.
+That's all natural and completely fine, you will have Good Days and you will have Bad Days. More on those later.
 
-<!-- Consider that skill is *not* formulated like the following:
-```
-Skill = Time * Effort
-```
-
-Instead, consider it like this:
-```
-Skill = ( Time * Effort ) ^ A whole bunch of external factors
-``` -->
-
-This is to say, you will have Good Days and you will have Bad Days.
+Your level of skill exists between a low point and a high point: the skill floor and skill ceiling, respectively.
 
 |||
 |-|-|
-| Skill floor | The lowest level that you are able to consistently perform at. This is your average level of skill. |
-| Skill ceiling | The level that you peak at. This is your personal limit. |
+| Skill floor | The lowest level that you are able to consistently perform at. This is your global average. |
+| Skill ceiling | The level that you peak at. This is your personal limit where've you set your personal bests. |
 
-We place your skill on a line of beginner to leading expert. Between the two bars is your skill. 
-The left bar is your skill floor and the right bar is your skill ceiling.
+You should be able to reach your skill floor almost all the time.
+On days where you are performing well, you can get close to or surpass your skill ceiling. 
+
+We place a hypothetical level of skill on a line of beginner to number 1 leading expert.
+Between the two bars is where we find that hypothetical skill. 
+The left bar is the skill floor and the right bar is the skill ceiling.
 
 ```
     ------|======|----------------------------
 Beginner      Intermediate             Leading Expert
 ```
 
-You should be able to reach your skill floor even if you are having a Bad Day. On Good Days, you can reach your skill ceiling.
+### Effective practice
+This is the important part of the article. 
+Here are general guidelines for a consistent and effective practice schedule.
+
+An effective practice session results in meaningful progress.
+
+#### Pushing and pulling
+Your practice should consist of session of two types: Push and Pull.
+
+Remember those bars on the skill line from earlier?
+|||
+|-|-|
+| Push | Increase skill ceiling by pushing your limit. |
+| Pull | Raise skill floor by focusing on technique, fixing mistakes and gaining more knowledge. |
+
+By increasing your skill ceiling you can increase your skill level as a whole.
+It can therefore also move your skill floor upward, but not as much as a good Pull session.
+
+By raising your skill floor the gap between your skill floor and your skill ceiling decreases.
+It might even slightly move up your skill ceiling, but not as much as a good Push session.
+
+Experiment with how much Push you do in relation to Pull.
+
+> **Sidenote: The importance of warming up.**
+> Warming up gets you into a flow state where your brain is already focused and your muscles are ready for the push.
+> This makes focusing to increase your skill ceiling way easier than if you start pushing from a cold start.
+> Warmup helps identify if you will be having a Good Day or a Bad Day.
+> It also leaves you less prone to injury, which is very important for keeping your consistency.
+
+#### Good Days and Bad Days
+Good Days are days where you are able to have an effective session.
+Bad Days are days where you're not able to have an effective session.
+
+So what exacly happens when you have a Bad Day?
+Let's map it out.
+
+```
+Bad day skill |   | Good day skill
+              v   v
+    ---------|======|----------------------------
+Beginner      Intermediate               Leading Expert
+```
+
+On Bad Days, your skill is less then what you planned it to be.
+
+For Push sessions, identify which aspects feel good and which don't.
+Focus on the aspects that do, and try to Push those.
+If nothing feels good, it's reasonable to switch your Push session to a Pull session.
+
+The same is true for having a planned Pull session, switch to a Push session if pulling doesn't feel good.
+If it turns out neither type of session is working today, it's okay to end your session early.
+
+#### Identify weak points
+You will have points in your practice where you make a mistake or mess up.
+Instead of moving on right away, try to analyze why you made that mistake. 
+What caused it?
+Recognizing mistakes is essential to having an effective session.
+
+How exactly you can identify weak points varies from skill to skill, but asking someone more experienced than you is usually a safe bet.
+Even if what you're practicing is a solo activity, there is probably a community of people that are also practicing that same skill.
+They can (and are willing to, if you ask nicely) give you pointers on where you have the most room for improvement.
+
+#### Be consistent
+Being consistent in your practice means that you have a set schedule for when and for how long you practice.
+It becomes easier if you integrate that alotted time for practice into your daily routine.
+
+For example: I have my practice session after dinner every other day and it lasts for 1.5 to 2 hours, maybe longer if I'm having a Good Day.
+
+If your schedule has daily practice, it's important to know when you should take a rest day. 
+A streak of Bad Days caused by overtraining on Good Days can be very hard to deal with, both physically and mentally.
+Allow yourself to recover, but make sure that they don't throw you off your routine.
+
+Your next Pull session you should then put more emphasis on the problem areas.
 
 ### Mental barriers
-Dedicating yourself to learning a new skill requires a strong growth mindset. A can-do attitude is invaluable.
+Dedicating yourself to learning a new skill requires a strong growth mindset.
 
-> I can't do it *yet*, but with more practice and hard work, I will be able to do it.
+#### Have fun
+If you're not having fun, trying to improve will feel like fighting a mountain.
+Having fun keeps you motivated.
+A can-do attitude is invaluable.
+
+> "I can't do it *yet*, but with more practice and hard work, I will be able to do it."
 
 #### Motivation and frustration
 Motivation and frustration are two moods you will most often find yourself in during practice.
@@ -73,72 +144,23 @@ Frustration is a downer, but don't let it discourage you.
 
 > That doesn't mean "don't get emotional" though!
 
-You should find a healthy way to channel your negative emotions (frustration) into positive emotions (motivation).
-
-> Always remember: if you find yourself too frustrated and/or not having fun, calling it a day is fine.
+You should find a healthy way to channel your negative emotions (frustration) into positive emotions (motivation). 
+Always remember: if you find yourself too frustrated and/or not having fun, ending your session early is okay.
 
 #### Competition and comparing yourself to others
 While competition is a great source of motivation, it can become a bigger source of frustration.
-You may end up constantly comparing yourself to your peers and their improvement instead of that of your own.
-
-You first, competition second.
-
-### Effective practice
-This is the important part of the article. 
-Here are general guidelines for a consistent and effective practice schedule.
-
-#### Push & Pull
-Your practice should consist (pun intended) of two main phases: first Push, then Pull.
-
-Remember those bars on the skill line from earlier?
-|||
-|-|-|
-| Push | Increase skill ceiling by pushing your limit |
-| Pull | Raise skill floor by focusing on technique, fixing mistakes and increasing your knowledge |
-
-Experiment with the ratios in how much Push you do in relation to Pull. 
-When you're a beginner, you should have a 1:1 ratio of pushing to pulling.
-
-When you reach an intermediate level, vary in this ratio. 
-Maybe you have a day where it feels like a Bad Day to Push, therefore you should Pull more.
-
-> **Sidenote: The importance of warming up.**
-> Warming up gets you into a state where your brain is already focused and your muscles are getting ready for the push.
-> This makes focusing to increase your skill ceiling way easier than if you start pushing from a cold start.
-> It also leaves you less prone to injury, which is very important for keeping your consistency.
-
-#### Be consistent
-Being consistent in your practice means that you have a set schedule for when and for how long you practice.
-It becomes easier if you integrate that alotted time for practice into your daily routine.
-
-For example: I have my practice session after dinner every other day and it lasts for 1.5 to 2 hours, maybe longer if I'm having a Good Day.
-
-If your schedule has daily practice, it's important to know when you should take a rest day. 
-A streak of Bad Days caused by Pushing too hard after Good Days can be very hard to deal with, both physically and mentally.
-Allow yourself to recover, but make sure that they don't throw you off your routine.
-
-#### Identify weak points
-You will have points in your practice where you make a mistake or mess up.
-Instead of moving on right away, try to analyze why you made that mistake or how you messed up. What caused it?
-Recognizing this is essential to have a good Pull phase.
-
-How exactly you can identify weak points varies from skill to skill, but asking someone more experienced than you is always a safe bet when getting started.
-Even if what you're practicing is a solo endeavour, there is probably a community of people that are also practicing that same skill.
-They can (and are willing to, if you ask nicely) give you pointers on where you have the most room for improvement.
-
-Your next session you should then focus on those points.
+You may end up constantly comparing yourself to your peers and their improvement instead of that of your own, causing frustration.
+Impostor syndrome is real and can drastically reduce the amount of fun you have or even induce stress while playing.
 
 ### Conclusion
-Improvement is not a straight line, it's like a staircase.
-Not everybody walks the same staircase and you may improve faster than others, or the other way around.
-
-However, it's important to recognize where you're personally falling short and working hard to fix that.
-Comparing yourself to others won't help you do that, only you can work for you.
+Improving is not a simple question of time and effort.
+It takes dedication to practice consistently while addressing weak points.
+Keeping a good mindset while facing a tough challenge is very hard, but it's important to take breaks from time to time as well.
 
 I hope my advice can help you use the time you are dedicating to the skill you choose to practice more effectively.
 
-Feel free to link this article to anyone who complains that they suck or are plateauing/not improving/stuck at their current level.
-Being bad at practicing is also a skill issue.
+Feel free to link this article to anyone who complains that they suck, are plateauing, not improving or stuck at their current level.
+Being good at practicing is also a skill you can learn.
 
 If you feel the need to contact me, my username on Discord is at the top of the page.
 
