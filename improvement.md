@@ -5,7 +5,8 @@
 ****
 and on practicing effectively.
 
-This article is for people that feel like they're in a rut, unable to improve at the skill they are training.
+This article is adapted from [articles written by nyannurs, Horie and SGH.](#sources)
+They are linked below.
 
 | Outline |
 | - |
@@ -14,6 +15,7 @@ This article is for people that feel like they're in a rut, unable to improve at
 | 2. [Effective practice](#effective-practice) |
 | 3. [Mental barriers](#mental-barriers) |
 | 4. [Conlusion](#conclusion) |
+| [Sources](#sources) |
 
 ### Preamble
 Getting good at a new thing takes a lot of time and practice.
@@ -164,7 +166,7 @@ Being good at practicing is also a skill you can learn.
 
 If you feel the need to contact me, my username on Discord is at the top of the page.
 
-#### Adapted from/further reading
+### Sources
 - [nyannurs article](https://nyannurs.wordpress.com/2020/02/19/mental-boom-words-of-a-bms-insane-8th-dan-and-beatmania-iidx-kaiden/)
-- [skill floor, skill ceiling](https://iidx.org/theory/skill_ceiling_floor)
-- [good days bad days](https://iidx.org/theory/effective_session_sgh)
+- [skill floor, skill ceiling by Horie](https://iidx.org/theory/skill_ceiling_floor)
+- [how to handle bad days by SGH](https://iidx.org/theory/effective_session_sgh)
