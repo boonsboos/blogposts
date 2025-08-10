@@ -152,7 +152,7 @@ Always remember: if you find yourself too frustrated and/or not having fun, endi
 #### Competition and comparing yourself to others
 While competition is a great source of motivation, it can become a bigger source of frustration.
 You may end up constantly comparing yourself to your peers and their improvement instead of that of your own, causing frustration.
-Impostor syndrome is real and can drastically reduce the amount of fun you have or even induce stress while playing.
+Impostor syndrome is real and can drastically reduce the amount of fun you have or even induce stress while practicing.
 
 ### Conclusion
 Improving is not a simple question of time and effort.
